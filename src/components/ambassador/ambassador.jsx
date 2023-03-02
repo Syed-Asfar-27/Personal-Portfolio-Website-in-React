@@ -5,7 +5,7 @@ import {GiAchievement} from 'react-icons/gi'
 const ambassador = () => {
   return (
     <section id='services'>
-    <h5>I worked as a Brand Ambassador</h5>
+    <h5 className='social_work'>I worked as a Brand Ambassador</h5>
     <h2>Ambassador</h2>
     <div className='container ambassador_container'>
     <div className="ambassador_experience">
